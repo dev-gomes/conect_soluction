@@ -1,0 +1,50 @@
+.page--container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    > p {
+        margin-bottom: 50px;
+    }
+
+    a {
+        display: flex;
+        justify-content: right;
+        align-items: center;
+        gap: 2px;
+        font-size: 13px;
+        font-weight: 500;
+        color: #9A1032;
+    }
+
+    .page--figures {
+        gap: 20px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+
+        
+        .page--figure.have {
+            background-color: #109a5a;
+        }
+
+        .page--figure {
+            width: 250px;
+            height: 200px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border-radius: 5px;
+            background-color: #9A1032;
+            color: #fff;
+
+            small {
+                text-align: center;
+            }
+        }
+    }
+}

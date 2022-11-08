@@ -1,0 +1,19 @@
+.card--container {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #adadad;
+    padding: 0 30px;
+
+    button {
+        width: 200px;
+        height: 40px;
+        color: #fff;
+        background-color: #9A1032;
+        border: 0;
+
+        &:hover {
+            filter: brightness(.9);
+            cursor: pointer;
+        }
+    }
+}

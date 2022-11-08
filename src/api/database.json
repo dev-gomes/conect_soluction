@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Matrizes",
+    "figures": [
+      { "name": "Matinha", "have": true },
+      { "name": "Peritoró", "have": false },
+      { "name": "Viana", "have": false },
+      { "name": "São Luís", "have": false },
+      { "name": "Olinda", "have": false },
+      { "name": "Arari", "have": true }
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et urna eleifend, lobortis justo at, hendrerit libero. Mauris vel libero a neque suscipit suscipit. Vivamus id augue nec turpis molestie semper."
+  },
+  {
+    "id": 2,
+    "name": "Linha do Tempo",
+    "figures": [
+      { "name": "Mascote", "have": false },
+      { "name": "Thiago", "have": false },
+      { "name": "Sávilo", "have": false },
+      { "name": "Nunes", "have": true },
+      { "name": "Thales", "have": false },
+      { "name": "Eduardo", "have": true },
+      { "name": "Chicão", "have": false },
+      { "name": "André", "have": false }
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et urna eleifend, lobortis justo at, hendrerit libero. Mauris vel libero a neque suscipit suscipit. Vivamus id augue nec turpis molestie semper."
+  },
+  {
+    "id": 3,
+    "name": "Homens",
+    "figures": [
+      { "name": "Ramon", "have": false },
+      { "name": "Juliano", "have": false },
+      { "name": "Junior", "have": false },
+      { "name": "Charuto", "have": false },
+      { "name": "Smith", "have": true },
+      { "name": "Smith", "have": false },
+      { "name": "Jairo", "have": false }
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et urna eleifend, lobortis justo at, hendrerit libero. Mauris vel libero a neque suscipit suscipit. Vivamus id augue nec turpis molestie semper."
+  },
+  {
+    "id": 4,
+    "name": "Mulheres",
+    "figures": [
+      { "name": "Jarlete", "have": false },
+      { "name": "Chris", "have": false },
+      { "name": "Priscila", "have": false },
+      { "name": "Lane", "have": false },
+      { "name": "Jamile", "have": true }
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et urna eleifend, lobortis justo at, hendrerit libero. Mauris vel libero a neque suscipit suscipit. Vivamus id augue nec turpis molestie semper."
+  }
+]
