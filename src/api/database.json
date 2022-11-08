@@ -32,7 +32,7 @@
     "name": "Homens",
     "figures": [
       { "name": "Ramon", "have": false },
-      { "name": "Juliano", "have": false },
+      { "name": "Juliano", "have": true },
       { "name": "Junior", "have": false },
       { "name": "Charuto", "have": false },
       { "name": "Smith", "have": true },
