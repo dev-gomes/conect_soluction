@@ -38,15 +38,20 @@ body {
         }
 
         .page--figure {
-            width: 250px;
+            width: 350px;
             height: 200px;
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
             border-radius: 5px;
+            padding-top: 20px;
             background-color: #9A1032;
             color: #fff;
+
+            a {
+                color: #fff;
+            }
 
             small {
                 text-align: center;

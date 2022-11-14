@@ -5,6 +5,8 @@ import './styles.scss';
 
 import { FaUserAlt, FaLock, FaKey, FaQuestionCircle } from 'react-icons/fa'
 
+import database from '../../api/database.json'
+
 import logoCopa from '../../assets/copa.png';
 
 export function Login() {
